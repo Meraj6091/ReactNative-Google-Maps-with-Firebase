@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "385036074425",
+    "project_id": "empitetest-ecd5a",
+    "storage_bucket": "empitetest-ecd5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385036074425:android:7309cd581f1c0ba7398a68",
+        "android_client_info": {
+          "package_name": "com.empitetest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4GzWhevWUYikSjvDAkeSvdxKbGyfkZiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
